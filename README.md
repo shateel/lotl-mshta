@@ -60,4 +60,3 @@ Security teams can leverage this project to test and refine detection logic for 
 > This repository is provided strictly for **educational and defensive security research purposes only**. Do not use this project for unauthorized access or malicious activity. The author assumes no liability for misuse. Always conduct testing in a segmented, authorized lab environment.
 
 ---
-**Visit Hacker's Terminal for more:** https://hackersterminal.com
